@@ -46,3 +46,6 @@ end
 
 # for Heroku
 gem 'rails_12factor', group: :production
+
+# JWT
+gem 'jwt'
